@@ -31,9 +31,9 @@ footer,
 }
 
 .flashy-text {
-    color: aqua;
+    color: rgb(6, 7, 7);
     animation: blink-animation 0.2s steps(5, start) infinite;
-    -webkit-animation: blink-animation 0.2s steps(5, start) infinite;
+    /* -webkit-animation: blink-animation 0.2s steps(5, start) infinite; */
 }
 
 @keyframes blink-animation {
